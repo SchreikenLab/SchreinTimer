@@ -1,1 +1,4 @@
-*.cs linguist-language=C#
+# Définir manuellement les langages de ton dépôt
+
+# Force la détection de C#
+* linguist-language=C#
